@@ -1,5 +1,4 @@
-## hi, i'm laurina. data science major @ uts
-
+## down w/ data centres | data science @ UTS
 <!--
 **centuryzen/centuryzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
